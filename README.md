@@ -10,6 +10,12 @@ Prof. Cassius Figueiredo
 
 ***
 
+### Introdução
+
+Relatório contendo o desenvolvimento da aplicação subdividido por etapas que foram realizadas nos últimos meses baseado em testes e implementações da aplicação desenvolvida em Python através do compilador Thonny. 
+
+Aplicação de monitoramento de recursos – processador, memória, armazenamento, arquivos, processos e rede – de um sistema computacional remoto baseado em arquitetura Cliente-Servidor, onde o Cliente requisita informações sobre o atual uso de determinado recurso do sistema computacional e o Servidor retorna essa informação para o Cliente e apresenta-os por meio da Command Prompt (CMD) ou do Power Shell do sistema operacional Windows. 
+
 ### Desenvolvimento
 **Etapa 1 – Seleção das funções:**
 
